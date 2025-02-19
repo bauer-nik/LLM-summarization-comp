@@ -1,0 +1,7 @@
+{
+  "model_type": "DeepSeek",
+  "model_name": "",
+  "src_col": "article",
+  "tgt_col": "highlights",
+  "id_col": "id"
+}

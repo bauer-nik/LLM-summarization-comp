@@ -1,0 +1,10 @@
+# pycache and basic igore files
+__pycache__/
+.ipynb_checkpoints/
+
+# don't push up raw files
+results/*
+data/*
+
+# pycharm specific
+.idea/

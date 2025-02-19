@@ -1,0 +1,7 @@
+{
+  "model_type": "Baseline",
+  "model_name": "first 5 sentences",
+  "src_col": "article",
+  "tgt_col": "highlights",
+  "id_col": "id"
+}

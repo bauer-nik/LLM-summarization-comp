@@ -1,0 +1,7 @@
+{
+  "model_type": "T5",
+  "model_name": "t5-base",
+  "src_col": "article",
+  "tgt_col": "highlights",
+  "id_col": "id"
+}

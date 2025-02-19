@@ -1,0 +1,7 @@
+{
+  "model_type": "GPT2",
+  "model_name": "gpt2",
+  "src_col": "article",
+  "tgt_col": "highlights",
+  "id_col": "id"
+}
